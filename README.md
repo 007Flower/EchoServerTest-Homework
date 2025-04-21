@@ -1,6 +1,6 @@
 # EchoServerTest-Homework
  
- You Run this Sever By  tpying the command go run server.go --port 5000"in a ternminal".
+ You Run this Sever By  tpying the command go run server.go --port 4000"in a ternminal".
  Then open a new terminal an runn the command nc localhost 4000
 
 
